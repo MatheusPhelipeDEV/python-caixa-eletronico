@@ -80,7 +80,11 @@ python main.py
 
 ## 📸 Demonstração
 
-*Em breve serão adicionadas imagens demonstrando o funcionamento do sistema.*
+Abaixo está uma captura da interface do sistema executado via terminal.
+
+<p align="center">
+  <img src="assets/terminal.png" alt="Sistema de Caixa Eletrônico" width="700">
+</p>
 
 ---
 
