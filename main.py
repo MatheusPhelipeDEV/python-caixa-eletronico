@@ -1,13 +1,16 @@
 saldo = 1000
 
 while True:
-    print('\n === Caixa Eletrônico ===')
-    print('1 - Consultar Saldo')
-    print('2 - Depositar')
-    print('3 - Sacar')
-    print('4 - Sair')
+    print("\n" + "=" * 34)
+    print("      CAIXA ELETRÔNICO")
+    print("=" * 34)
+
+    print("1 - Consultar saldo")
+    print("2 - Depositar")
+    print("3 - Sacar")
+    print("4 - Sair")
         
-    opcao = input('Escolha uma opção: ')
+    opcao = input("\n➡ Escolha uma opção: ")
 
     if opcao == '1':
         print(f'\nSeu saldo é de: R$ {saldo:.2f}')
