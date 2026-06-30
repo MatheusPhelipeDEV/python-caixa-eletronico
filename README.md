@@ -2,22 +2,26 @@
 
 Projeto desenvolvido para praticar os fundamentos da linguagem Python por meio da simulação de um caixa eletrônico executado via terminal.
 
+| Status | Versão | Linguagem |
+| :----: | :----: | :--------: |
+| ✅ Concluído | 1.0 | Python 3 |
+
 ---
 
 ## 📖 Sobre o projeto
 
-Este sistema permite realizar operações básicas de um caixa eletrônico, simulando um ambiente simples para consolidar conceitos importantes de programação.
+Este projeto simula o funcionamento básico de um caixa eletrônico utilizando Python e execução via terminal.
 
-O projeto foi desenvolvido como parte da minha jornada de aprendizado em Python, com foco na escrita de código limpo, organizado e de fácil entendimento.
+O principal objetivo foi consolidar conceitos fundamentais da linguagem, desenvolvendo uma aplicação organizada, funcional e de fácil compreensão. Durante o desenvolvimento, busquei aplicar boas práticas de programação desde os primeiros projetos, fortalecendo minha base para projetos cada vez mais complexos.
 
 ---
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 
-- Consultar saldo
-- Realizar depósitos
-- Efetuar saques
-- Encerrar o sistema
+- ✅ Consultar saldo
+- ✅ Realizar depósitos
+- ✅ Efetuar saques
+- ✅ Encerrar o sistema
 
 ---
 
@@ -30,15 +34,43 @@ O projeto foi desenvolvido como parte da minha jornada de aprendizado em Python,
 ## 📚 Conceitos praticados
 
 - Variáveis
-- Estruturas condicionais
-- Laços de repetição
+- Estruturas condicionais (`if` / `elif` / `else`)
+- Laços de repetição (`while`)
 - Funções
 - Entrada e saída de dados
 - Lógica de programação
+- Organização de código
 
 ---
 
-## ▶ Como executar
+## 📂 Estrutura do projeto
+
+```text
+python-caixa-eletronico/
+│
+├── main.py
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+---
+
+## ▶️ Como executar
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/MatheusPhelipeDEV/python-caixa-eletronico.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd python-caixa-eletronico
+```
+
+3. Execute o programa:
 
 ```bash
 python main.py
@@ -48,27 +80,38 @@ python main.py
 
 ## 📸 Demonstração
 
-*Em breve.*
+*Em breve serão adicionadas imagens demonstrando o funcionamento do sistema.*
 
 ---
 
 ## 🎯 Aprendizados
 
-Durante o desenvolvimento deste projeto pude reforçar conceitos fundamentais da linguagem Python, compreender melhor a estrutura de programas executados via terminal e praticar a organização do código em funções reutilizáveis.
+Durante o desenvolvimento deste projeto pude fortalecer minha lógica de programação e compreender melhor como estruturar aplicações executadas via terminal.
+
+Além disso, pratiquei conceitos essenciais da linguagem Python, como funções, estruturas condicionais, laços de repetição e organização do código, criando uma base sólida para projetos futuros.
 
 ---
 
-## 🔄 Próximas melhorias
+## 🚀 Próximas melhorias
 
-- Persistência de dados
-- Histórico de transações
-- Cadastro de usuários
-- Interface gráfica
+- [ ] Persistência de dados em arquivo
+- [ ] Histórico de transações
+- [ ] Cadastro de múltiplos usuários
+- [ ] Interface gráfica
+- [ ] Testes automatizados
 
 ---
 
 ## 👨‍💻 Autor
 
-Matheus Phelipe
+**Matheus Phelipe**
 
-[LinkedIn](https://www.linkedin.com/in/matheus-phelipe-dev/)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UniOpet)
+
+💼 Desenvolvedor de Software em Formação
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/matheus-phelipe-dev/
+
+🐙 GitHub:  
+https://github.com/MatheusPhelipeDEV
